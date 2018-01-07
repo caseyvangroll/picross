@@ -16,7 +16,7 @@ namespace Picross
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Picross());
+            Application.Run(new MainForm());
         }
     }
 }

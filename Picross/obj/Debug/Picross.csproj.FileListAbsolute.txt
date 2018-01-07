@@ -1,10 +1,10 @@
 C:\Users\Chipmunk\source\repos\Picross\Picross\bin\Debug\Picross.exe.config
 C:\Users\Chipmunk\source\repos\Picross\Picross\bin\Debug\Picross.exe
 C:\Users\Chipmunk\source\repos\Picross\Picross\bin\Debug\Picross.pdb
-C:\Users\Chipmunk\source\repos\Picross\Picross\obj\Debug\Picross.Picross.resources
 C:\Users\Chipmunk\source\repos\Picross\Picross\obj\Debug\Picross.Properties.Resources.resources
 C:\Users\Chipmunk\source\repos\Picross\Picross\obj\Debug\Picross.csproj.GenerateResource.Cache
 C:\Users\Chipmunk\source\repos\Picross\Picross\obj\Debug\Picross.csproj.CoreCompileInputs.cache
 C:\Users\Chipmunk\source\repos\Picross\Picross\obj\Debug\Picross.exe
 C:\Users\Chipmunk\source\repos\Picross\Picross\obj\Debug\Picross.pdb
 C:\Users\Chipmunk\source\repos\Picross\Picross\obj\Debug\Picross.csprojResolveAssemblyReference.cache
+C:\Users\Chipmunk\source\repos\Picross\Picross\obj\Debug\Picross.MainForm.resources
